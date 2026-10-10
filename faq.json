@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "requirements",
+    "question": "What documents do incoming freshmen need?",
+    "answer": "Incoming freshmen must submit a completed application form, a copy of their birth certificate, their senior high school report card, and two recent 2x2 ID photos. Bring the original documents for verification."
+  },
+  {
+    "id": 2,
+    "category": "requirements",
+    "question": "Is a birth certificate required for enrollment?",
+    "answer": "Yes. Incoming freshmen must submit a copy of their birth certificate and bring the original for verification."
+  },
+  {
+    "id": 3,
+    "category": "requirements",
+    "question": "Can transfer students apply to Bayanihan College?",
+    "answer": "Yes. Transfer students may apply by submitting the application form, transcript of records or available school records, a copy of their birth certificate, and two recent 2x2 ID photos. The registrar will review transferred subjects."
+  },
+  {
+    "id": 4,
+    "category": "schedule",
+    "question": "When does enrollment open?",
+    "answer": "In the fictional sample school calendar, first-semester enrollment opens on June 1 and closes on July 15. Confirm any updated dates with the registrar before making plans."
+  },
+  {
+    "id": 5,
+    "category": "schedule",
+    "question": "What is the enrollment deadline?",
+    "answer": "In the fictional sample calendar, July 15 is the first-semester enrollment deadline. Confirm with the registrar in case the date has changed."
+  },
+  {
+    "id": 6,
+    "category": "schedule",
+    "question": "What are the registrar office hours?",
+    "answer": "The registrar's office is open Monday through Friday, from 8:00 AM to 5:00 PM, excluding public holidays."
+  },
+  {
+    "id": 7,
+    "category": "payment",
+    "question": "Can I pay tuition in installments?",
+    "answer": "Yes. Tuition may be paid in four installments: upon enrollment, during prelims, during midterms, and during finals."
+  },
+  {
+    "id": 8,
+    "category": "payment",
+    "question": "What payment methods are accepted?",
+    "answer": "The cashier accepts cash and bank transfers to the school's designated account. Keep your receipt or proof of transfer for verification."
+  },
+  {
+    "id": 9,
+    "category": "payment",
+    "question": "Where should I submit proof of bank transfer?",
+    "answer": "Submit your bank-transfer confirmation to the cashier for verification and keep a copy for your records."
+  },
+  {
+    "id": 10,
+    "category": "scholarship",
+    "question": "Does Bayanihan College offer scholarships?",
+    "answer": "Yes. The fictional sample school offers academic merit scholarships and need-based assistance. Eligibility and available slots depend on the current scholarship guidelines."
+  },
+  {
+    "id": 11,
+    "category": "scholarship",
+    "question": "What are the requirements for an academic scholarship?",
+    "answer": "For the sample academic merit scholarship, submit your latest report card or transcript, a scholarship application form, and a short letter of request. The scholarship office will check eligibility according to the current guidelines."
+  },
+  {
+    "id": 12,
+    "category": "scholarship",
+    "question": "When is the scholarship application deadline?",
+    "answer": "The sample scholarship application deadline is July 5 for first-semester applicants. Confirm the current deadline and requirements with the scholarship office."
+  },
+  {
+    "id": 13,
+    "category": "registrar",
+    "question": "How can I request a certificate of enrollment?",
+    "answer": "Submit a certificate-of-enrollment request form to the registrar and present your student ID or another accepted identity document. Processing usually takes three working days."
+  },
+  {
+    "id": 14,
+    "category": "registrar",
+    "question": "How can I request a transcript of records?",
+    "answer": "Visit the registrar and submit a transcript request form along with your student ID or an accepted valid ID. Processing usually takes seven working days."
+  },
+  {
+    "id": 15,
+    "category": "registrar",
+    "question": "How do I correct an error in my student information?",
+    "answer": "Visit the registrar and submit a correction request with supporting documents that show the correct information. The registrar will review the request before updating the record."
+  },
+  {
+    "id": 16,
+    "category": "requirements",
+    "question": "Do I need to bring original documents?",
+    "answer": "Yes. Bring original documents for verification along with the required copies. The school will tell you if additional documents are needed for your case."
+  },
+  {
+    "id": 17,
+    "category": "payment",
+    "question": "Can I pay tuition by bank transfer?",
+    "answer": "Yes. Bank transfers to the school's designated account are accepted. Submit your transfer confirmation to the cashier and keep a copy for your records."
+  },
+  {
+    "id": 18,
+    "category": "scholarship",
+    "question": "Can students apply for need-based financial assistance?",
+    "answer": "Yes. Students may apply for need-based assistance by submitting the scholarship application form and the supporting documents requested by the scholarship office. Approval depends on current guidelines and available funds."
+  }
+]
